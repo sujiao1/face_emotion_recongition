@@ -1,0 +1,2 @@
+# face_emotion_recongition
+表情识别_MTCNN人脸关键点检测、SE_ResNet网络表情识别、H5数据文件存储
